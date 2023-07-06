@@ -40,6 +40,7 @@ I'm a backend developer, but... <br>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
 <br>
 
 ### 🔨 DevOps
@@ -52,7 +53,7 @@ I'm a backend developer, but... <br>
 <br>
 
 ### Socials
-<img align="right" alt="Coding" width="100" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
+
 <p align="left"> <a href="https://www.github.com/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <img src="https://komarev.com/ghpvc/?username=ciplenok57&label=Profile%20views&color=0e75b6&style=flat" alt="ciplenok57" /> 
