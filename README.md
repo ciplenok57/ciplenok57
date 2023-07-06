@@ -4,13 +4,13 @@ Hi 👋 My name is Radion
 I'm a backend developer, but... <br>
 • frontend too<br>
 • web security too<br>
-• a little bit devops too<br><br>
+• a little bit devops too<br>
 
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [https://t.me/ciplenok57](mailto:https://t.me/ciplenok57)
 * 🧠  I'm learning Microservices architecture and system design
 * 🤝  I'm open to collaborating on Interesting projects and startups<br>
-<br><br>
+<br>
 
 ### 💻 CORE
 
@@ -18,7 +18,7 @@ I'm a backend developer, but... <br>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<br><br>
+<br>
  
 ### ⚙️ Backend
 
@@ -29,7 +29,7 @@ I'm a backend developer, but... <br>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
-<br><br>
+<br>
 
 ### 🖌️ FRONTEND
 
