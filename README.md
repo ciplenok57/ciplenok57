@@ -34,7 +34,6 @@ I'm a backend developer, but... <br>
 
 ### 🖌️ FRONTEND
 
-<img align="right" alt="Coding" width="100" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -53,7 +52,7 @@ I'm a backend developer, but... <br>
 <br>
 
 ### Socials
-
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
 <p align="left"> <a href="https://www.github.com/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <img src="https://komarev.com/ghpvc/?username=ciplenok57&label=Profile%20views&color=0e75b6&style=flat" alt="ciplenok57" /> 
