@@ -10,7 +10,6 @@ I'm a backend developer, but... <br>
 * ✉️  You can contact me at [https://t.me/ciplenok57](mailto:https://t.me/ciplenok57)
 * 🧠  I'm learning Microservices architecture and system design
 * 🤝  I'm open to collaborating on Interesting projects and startups<br>
-<br>
 
 ### 💻 CORE
 
