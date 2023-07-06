@@ -18,7 +18,7 @@ I'm a backend developer, but... <br>
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <img align="right" alt="Coding" width="36" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
+<img" alt="Coding" width="36" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <br>
  
