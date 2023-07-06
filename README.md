@@ -2,9 +2,9 @@ Hi 👋 My name is Radion
 =======================
 
 I'm a backend developer, but... <br>
-• frontend too<br>
-• web security too<br>
-• a little bit devops too<br>
+• frontend <br>
+• web security <br>
+• a little bit devops <br>
 
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [https://t.me/ciplenok57](mailto:https://t.me/ciplenok57)
