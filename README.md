@@ -11,10 +11,7 @@ I'm a backend developer, but... <br>
 * 🧠  I'm learning Microservices architecture and system design
 * 🤝  I'm open to collaborating on Interesting projects and startups<br>
 
-<div style="display:flex; flex-direction:column">
  <img align="right" alt="Coding" width="200" src="https://media.tenor.com/vDfzGPhc3tUAAAAd/waiting-for-java-server.gif">
-<img align="right" alt="Coding" width="100" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
-</div>
 
 ### 💻 CORE
 
@@ -37,7 +34,7 @@ I'm a backend developer, but... <br>
 
 ### 🖌️ FRONTEND
 
-
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
