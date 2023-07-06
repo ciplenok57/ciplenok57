@@ -9,8 +9,9 @@ a little bit devops too<br>
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [https://t.me/ciplenok57](mailto:https://t.me/ciplenok57)
 * 🧠  I'm learning Microservices architecture and system design
-* 🤝  I'm open to collaborating on Interesting projects and startups
+* 🤝  I'm open to collaborating on Interesting projects and startups<br>
 
+<br>
 ### 💻 CORE
 
 
@@ -19,6 +20,7 @@ a little bit devops too<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
+<br>
 ### 💻 Backend
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
@@ -29,7 +31,7 @@ a little bit devops too<br>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
 
-
+<br>
 ### 💻 FRONTEND
 
 
@@ -40,6 +42,7 @@ a little bit devops too<br>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 
+<br>
 ### 💻 DevOps
 
 
@@ -48,11 +51,12 @@ a little bit devops too<br>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
 
-
+<br>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<br>
 ### Badges
 
 <b>My GitHub Stats</b>
