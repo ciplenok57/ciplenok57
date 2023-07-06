@@ -57,3 +57,6 @@ I'm a backend developer, but... <br>
 <p align="left"> <a href="https://www.github.com/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ciplenok57" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <img src="https://komarev.com/ghpvc/?username=ciplenok57&label=Profile%20views&color=0e75b6&style=flat" alt="ciplenok57" /> 
+
+
+ <img align="right" alt="Coding" width="400" src="https://rp-wow.ru/upload/036/u3673/9a/fb/orig.gif">
