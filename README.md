@@ -11,8 +11,7 @@ I'm a backend developer, but... <br>
 * 🧠  I'm learning Microservices architecture and system design
 * 🤝  I'm open to collaborating on Interesting projects and startups<br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif">
 
 ### 💻 CORE
 
