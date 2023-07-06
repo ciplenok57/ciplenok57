@@ -59,4 +59,4 @@ I'm a backend developer, but... <br>
 <img src="https://komarev.com/ghpvc/?username=ciplenok57&label=Profile%20views&color=0e75b6&style=flat" alt="ciplenok57" /> 
 
 
- <img align="right" alt="Coding" width="400" src="https://rp-wow.ru/upload/036/u3673/9a/fb/orig.gif">
+ <img align="center" alt="Coding" width="400" src="https://rp-wow.ru/upload/036/u3673/9a/fb/orig.gif">
