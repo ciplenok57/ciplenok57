@@ -1,7 +1,7 @@
 Hi 👋 My name is Radion
 =======================
 
-I'm a backend developer, but... <br>
+I'm a Java backend developer, but... <br>
 • frontend <br>
 • web security <br>
 • a little bit devops <br>
@@ -33,7 +33,7 @@ I'm a backend developer, but... <br>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
 <br>
 
-### 🖌️ FRONTEND
+### 🖌️ Frontend
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
