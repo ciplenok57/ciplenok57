@@ -1,15 +1,15 @@
 Hi 👋 My name is Radion
 =======================
 
-I'm a Java backend developer, but... <br>
-• frontend <br>
-• web security <br>
-• a little bit devops <br>
-
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [https://t.me/ciplenok57](mailto:https://t.me/ciplenok57)
 * 🧠  I'm learning system design now
 * 🤝  I'm open to collaborating on interesting projects and startups<br>
+
+I'm a Java backend developer, but... <br>
+• frontend <br>
+• web security <br>
+• a little bit devops <br>
 
  <img align="right" alt="Coding" width="200" src="https://media.tenor.com/vDfzGPhc3tUAAAAd/waiting-for-java-server.gif">
 
